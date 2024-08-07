@@ -1,0 +1,5 @@
+--background-color: #CBF9BC;
+--primary-color: 258E00;
+
+background-form transparência 62%;
+fonte: Josefin Sans;
